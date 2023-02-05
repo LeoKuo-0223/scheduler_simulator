@@ -1,0 +1,54 @@
+Task aaa is ready.
+Task bbb is ready.
+Task ccc is ready.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Task ggg is ready.
+Task hhh is ready.
+Task iii is ready.
+Task jjj is ready.
+Task kkk is ready.
+Task lll is ready.
+Task mmm is ready.
+Task nnn is ready.
+Task ooo is ready.
+Task ppp is ready.
+Task qqq is ready.
+Task rrr is ready.
+Task sss is ready.
+Task ttt is ready.
+Task uuu is ready.
+Task vvv is ready.
+Task www is ready.
+Task xxx is ready.
+Task yyy is ready.
+Task zzz is ready.
+  TID|    name|       state|   running|   waiting| turnaround| resources
+-----------------------------------------------------------------------------------
+    1|     aaa|  TERMINATED|         9|         0|          9|      none
+    2|     bbb|  TERMINATED|         9|         9|         18|      none
+    3|     ccc|  TERMINATED|        11|        18|         29|      none
+    4|     ddd|  TERMINATED|         9|        29|         38|      none
+    5|     eee|  TERMINATED|        10|        38|         48|      none
+    6|     fff|  TERMINATED|        10|        48|         58|      none
+    7|     ggg|  TERMINATED|         8|        58|         66|      none
+    8|     hhh|  TERMINATED|         9|        66|         75|      none
+    9|     iii|  TERMINATED|        10|        75|         85|      none
+   10|     jjj|  TERMINATED|        10|        85|         95|      none
+   11|     kkk|  TERMINATED|        11|        95|        106|      none
+   12|     lll|  TERMINATED|        11|       106|        117|      none
+   13|     mmm|  TERMINATED|         9|       117|        126|      none
+   14|     nnn|  TERMINATED|         9|       126|        135|      none
+   15|     ooo|  TERMINATED|         9|       135|        144|      none
+   16|     ppp|  TERMINATED|         9|       144|        153|      none
+   17|     qqq|  TERMINATED|        10|       153|        163|      none
+   18|     rrr|  TERMINATED|        10|       163|        173|      none
+   19|     sss|  TERMINATED|        29|       173|        202|      none
+   20|     ttt|  TERMINATED|        29|       202|        231|      none
+   21|     uuu|  TERMINATED|        51|       231|        282|      none
+   22|     vvv|  TERMINATED|         0|       282|        352|      none
+   23|     www|  TERMINATED|         0|       282|        413|      none
+   24|     xxx|  TERMINATED|         0|       282|        474|      none
+   25|     yyy|  TERMINATED|         0|       282|        494|      none
+   26|     zzz|  TERMINATED|         0|       282|        515|      none
